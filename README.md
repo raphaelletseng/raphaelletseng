@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Raphaëlle Tseng
 
 ![raphaelletseng's github stats](https://github-readme-stats.vercel.app/api?username=raphaelletseng&show_icons=true&theme=nightowl&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelletseng)](https://github.com/raphaelletseng/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelletseng)](https://github.com/raphaelletseng/github-readme-stats) -->
 
 <!--<img src="hello.png" alt="landing-hello" style="width:400px;"/> -->
 
