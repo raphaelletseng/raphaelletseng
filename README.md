@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Raphaëlle Tseng
-<img src="hello.png" alt="landing-hello" style="width:400px;"/>
+
+![raphaelletseng's github stats](https://github-readme-stats.vercel.app/api?username=raphaelletseng&show_icons=true&theme=nightowl)
+
+<!--<img src="hello.png" alt="landing-hello" style="width:400px;"/> -->
 
 <!--
 **raphaelletseng/raphaelletseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
