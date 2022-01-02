@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Raphaëlle Tseng
-![landing-img](hello.png)
+<img src="hello.png" alt="landing-hello" style="width:400px;"/>
 
 <!--
 **raphaelletseng/raphaelletseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
